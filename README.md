@@ -1,4 +1,4 @@
-Sapphire Core integration/staging repository
+Stackcain Core integration/staging repository
 =====================================
 
 
@@ -10,12 +10,12 @@ Sapphire Core integration/staging repository
 • PoS Blocks: Starting from 501  
 • Block Time: 60 Seconds    
 • Maturity: 100 Confirmations  
-• Prefix: SAPP adresses start with the capital letter "S"  
+• Prefix: SC adresses start with the capital letter "S"  
 • Ports: 45328 (p2p) / 45329 (rpc)
 
-• Explorer http://explorer.sapphirecore.com
+• Explorer http://explorer.stackchain.com
 
-• Website [sapphirecore.com](http://www.sapphirecore.com)
+• Website [stackchain.com]
 
 ### Rewards Breakdown
 <table border=0 cellpadding=0 cellspacing=0 width=701 class=xl6553517252
